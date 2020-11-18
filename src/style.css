@@ -1,1 +1,15 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+ul {
+  list-style-type: none;
+}
+.fas {
+  font-size: 35px;
+  padding: 6px;
+  color: white;
+}
+body {
+  font-display: bold;
+  font-size: 25px;
+  color: black;
+  font-family: "Creepster", cursive;
+}
